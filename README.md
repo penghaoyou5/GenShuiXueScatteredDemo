@@ -1,2 +1,2 @@
 # GenShuiXueTrain
- 这是在跟谁学期间自己做的项目的Demo
+ 这是在跟谁学期间的android 培训资料
